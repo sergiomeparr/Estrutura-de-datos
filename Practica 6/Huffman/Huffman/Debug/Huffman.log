@@ -1,0 +1,11 @@
+﻿Compilación iniciada a las 12/01/2016 21:55:47.
+     1>Proyecto "C:\Users\José Miguel\Dropbox\Estructuras de Datos\Practica 6\Huffman\Huffman\Huffman.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         Huffman.vcxproj -> C:\Users\José Miguel\Dropbox\Estructuras de Datos\Practica 6\Huffman\Debug\Huffman.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"C:\Users\José Miguel\Dropbox\Estructuras de Datos\Practica 6\Huffman\Debug\Huffman.bsc" /n Debug\Huffman.sbr
+     1>Compilación del proyecto terminada "C:\Users\José Miguel\Dropbox\Estructuras de Datos\Practica 6\Huffman\Huffman\Huffman.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.27
